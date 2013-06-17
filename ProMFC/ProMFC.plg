@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ProMFC - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ProMFC.pdb" /debug /machine:I386 /out:"Debug/ProMFC.exe" /pdbtype:sept  ".\Debug\ProMFC.obj" ".\Debug\ProMFCDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\ProMFC.res" "
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/ProMFC.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\ProMFC.sbr" ".\Debug\ProMFCDlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+ProMFC.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
